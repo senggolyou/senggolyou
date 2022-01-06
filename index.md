@@ -1,19 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to SAMSAT Keliling Sub Github yang baru ini
 
 You can use the [editor on GitHub](https://github.com/senggolyou/senggolyou.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Ini adalah project untuk menampilkan penjadwalan dan informasi seputar lokasi [SAMSAT Keliling](https://samsatkeliling.info/) untuk membantu masyarakat luas dalam mengurus perpanjangan Surat Tanda Nomor Kendaraannya (STNK) dengan mudah dan cepat.
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+Jadwal Lokasi SAMSAT Keliling
 
-# Header 1
-## Header 2
-### Header 3
+# Jakarta
+## Bandung
+### Kediri
 
 - Bulleted
 - List
